@@ -21,3 +21,4 @@ npm run preview
 ## تخصيص
 - عدّل رقم واتساب وروابط السوشال داخل `src/App.jsx`.
 - الألوان في `tailwind.config.js` (brand.blue / brand.light / brand.gold).
+ECHO is on.
